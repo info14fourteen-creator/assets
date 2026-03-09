@@ -5,12 +5,12 @@
   "decimals": 6,
   "website": "https://4teen.me",
   "description": "4TEEN is a TRC-20 token on the TRON blockchain with time-locked supply and on-chain liquidity mechanics.",
-  "explorer": "https://tronscan.org/#/token20/TMLXiCW2ZAkvjmn79ZXa4vdHX5BE3n9x4A",
+  "explorer": "https://tronscan.io/#/token20/TMLXiCW2ZAkvjmn79ZXa4vdHX5BE3n9x4A",
   "status": "active",
   "id": "TMLXiCW2ZAkvjmn79ZXa4vdHX5BE3n9x4A",
   "links": [
     {
-      "name": "x",
+      "name": "twitter",
       "url": "https://x.com/4teentoken"
     },
     {
@@ -22,12 +22,12 @@
       "url": "https://facebook.com/Fourteentoken"
     },
     {
-      "name": "instagram",
-      "url": "https://instagram.com/fourteentoken"
-    },
-    {
       "name": "youtube",
       "url": "https://www.youtube.com/@4teentoken"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/info14fourteen-creator"
     }
   ],
   "tags": [
